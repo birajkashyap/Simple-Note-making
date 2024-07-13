@@ -1,2 +1,2 @@
 # Note making app
-- Note making app in html,css and js
+- Note making app using html,css and js
